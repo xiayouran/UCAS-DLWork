@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="541d49b6-5243-4d1d-b86d-0df1f49632f3" name="ucas">
+        <fileTransfer rootFolder="/root/data3/liyanpeng/pywork/UCAS-DLWork" accessType="SFTP" host="172.18.41.19" port="11542" sshConfigId="4992aea5-f7c4-42ad-ba23-9e0d33cca2d8" sshConfig="root@172.18.41.19:11542 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
